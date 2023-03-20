@@ -49,7 +49,7 @@ export const GraphsModule3 = () => {
       "Tyre Rotor": {
         value: 1288,
         segments: 10,
-        maxValue: 1549,
+        maxValue: 1550,
         currentValueText: "Tyre Rotor",
       },
     },
@@ -81,7 +81,7 @@ export const GraphsModule3 = () => {
       "Performance Metrics - A14": {
         value: 31.5,
         segments: 10,
-        maxValue: 43.5,
+        maxValue: 43,
         currentValueText: "Performance Metrics - A14",
       },
     },
