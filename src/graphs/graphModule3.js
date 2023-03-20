@@ -145,6 +145,19 @@ export const GraphsModule3 = () => {
                   textColor="black"
                   forceRender={true}
                 />
+                <ReactSpeedometer
+                  maxValue={sensorData.maxValue}
+                  value={sensorData.value}
+                  segments={sensorData.segments}
+                  needleColor="black"
+                  startColor="green"
+                  endColor="red"
+                  currentValueText={`${sensorData.currentValueText}`}
+                  height={170}
+                  width={280}
+                  textColor="black"
+                  forceRender={true}
+                />
               </div>
               <div className="dropDown">
               <Select
