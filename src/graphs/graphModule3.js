@@ -118,8 +118,8 @@ export const GraphsModule3 = () => {
                   startColor="red"
                   endColor="green"
                   currentValueText="Remaining Useful Life"
-                  height={200}
-                  width={400}
+                  height={300}
+                  width={500}
                   textColor="black"
                   forceRender={true}
                 />
@@ -140,8 +140,8 @@ export const GraphsModule3 = () => {
                   startColor="green"
                   endColor="red"
                   currentValueText={`${sensorData.currentValueText}`}
-                  height={300}
-                  width={500}
+                  height={210}
+                  width={310}
                   textColor="black"
                   forceRender={true}
                 />
