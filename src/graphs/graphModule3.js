@@ -118,8 +118,8 @@ export const GraphsModule3 = () => {
                   startColor="red"
                   endColor="green"
                   currentValueText="Remaining Useful Life"
-                  height={300}
-                  width={500}
+                  height={200}
+                  width={400}
                   textColor="black"
                   forceRender={true}
                 />
