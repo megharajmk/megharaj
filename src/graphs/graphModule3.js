@@ -65,31 +65,31 @@ export const GraphsModule3 = () => {
       "Tyre Pressure": {
         value: 150,
         segments: 10,
-        maxValue: 222,
+        maxValue: 220,
         currentValueText: "Tyre Pressure",
       },
     },
     {
       "Due For Maintainance": {
-        value: 40,
+        value: 0.15,
         segments: 10,
-        maxValue: 222,
+        maxValue: 0.3,
         currentValueText: "Due For Maintainance",
       },
     },
     {
       "Performance Metrics - A14": {
-        value: 0,
+        value: 31.5,
         segments: 10,
-        maxValue: 222,
+        maxValue: 43.5,
         currentValueText: "Performance Metrics - A14",
       },
     },
     {
       Cycles: {
-        value: 200,
+        value: 25,
         segments: 10,
-        maxValue: 222,
+        maxValue: 55,
         currentValueText: "Cycles",
       },
     },
@@ -112,7 +112,7 @@ export const GraphsModule3 = () => {
               <div className="speedometer-wrapper1">
                 <ReactSpeedometer
                   maxValue={100}
-                  value={100}
+                  value={48}
                   segments={10}
                   needleColor="black"
                   startColor="red"
