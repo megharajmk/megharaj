@@ -22,19 +22,19 @@ export const SensorList = [
 
 export const userDetails = [
   {
-    usr: "user1",
+    usr: "Megharaj",
     pwd: "password",
   },
   {
-    usr: "user2",
+    usr: "Poorna",
     pwd: "password",
   },
   {
-    usr: "user3",
+    usr: "Elavarasan",
     pwd: "password",
   },
   {
-    usr: "user4",
+    usr: "Sudipta",
     pwd: "password",
   },
 ];
