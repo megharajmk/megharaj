@@ -63,7 +63,7 @@ export const GraphsModule3 = () => {
                 value={930}
                 maxSegmentLabels={5}
                 segments={1000}
-                maxValue={1549}
+                maxValue={1550}
                 currentValueText="Tyre Rotor"
                 needleColor="black"
                 startColor="green"
@@ -91,7 +91,7 @@ export const GraphsModule3 = () => {
               <ReactSpeedometer
                 value={31.5}
                 segments={10}
-                maxValue={43.5}
+                maxValue={43}
                 currentValueText="Performance Metrics - A14"
                 needleColor="black"
                 startColor="green"
