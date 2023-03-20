@@ -9,7 +9,7 @@ export const GraphsModule2 = () => {
         <div className="container">
           <div style={{ margin: "10px" }}>
             <h2 style={{ textAlign: "center", padding: "10px"}}>
-              Engine 2 Reports
+              Engine 2 Statistics
             </h2>
           </div>
           <div style={{ margin: "10px" }}>
