@@ -68,7 +68,7 @@ export const GraphsModule2 = () => {
                 maxSegmentLabels={5}
                 segments={1000}
                 maxValue={1549}
-                currentValueText="Tyre Rotor"
+                currentValueText="Rotor"
                 needleColor="black"
                 startColor="green"
                 endColor="red"
