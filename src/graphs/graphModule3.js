@@ -19,7 +19,7 @@ export const GraphsModule3 = () => {
             <div className="speedometer-wrapper1">
               <ReactSpeedometer
                 maxValue={100}
-                value={46}
+                value={100}
                 segments={10}
                 needleColor="black"
                 startColor="red"
@@ -34,7 +34,7 @@ export const GraphsModule3 = () => {
             <div className="speedometer-wrapper">
               <ReactSpeedometer
                 maxValue={600}
-                value={250}
+                value={0}
                 segments={10}
                 needleColor="black"
                 startColor="green"
@@ -46,7 +46,7 @@ export const GraphsModule3 = () => {
             </div>
             <div className="speedometer-wrapper">
               <ReactSpeedometer
-                value={150}
+                value={0}
                 maxSegmentLabels={5}
                 segments={1000}
                 maxValue={222}
@@ -60,7 +60,7 @@ export const GraphsModule3 = () => {
             </div>
             <div className="speedometer-wrapper">
               <ReactSpeedometer
-                value={930}
+                value={0}
                 maxSegmentLabels={5}
                 segments={1000}
                 maxValue={1550}
@@ -77,7 +77,7 @@ export const GraphsModule3 = () => {
             <div className="speedometer-wrapper">
               <ReactSpeedometer
                 maxValue={0.3}
-                value={0.15}
+                value={0}
                 segments={6}
                 needleColor="black"
                 startColor="green"
@@ -89,7 +89,7 @@ export const GraphsModule3 = () => {
             </div>
             <div className="speedometer-wrapper">
               <ReactSpeedometer
-                value={31.5}
+                value={0}
                 segments={10}
                 maxValue={43}
                 currentValueText="Performance Metrics - A14"
@@ -102,7 +102,7 @@ export const GraphsModule3 = () => {
             </div>
             <div className="speedometer-wrapper">
               <ReactSpeedometer
-                value={25}
+                value={0}
                 maxSegmentLabels={5}
                 segments={1000}
                 maxValue={55}
