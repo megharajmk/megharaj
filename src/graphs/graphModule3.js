@@ -106,7 +106,7 @@ export const GraphsModule3 = () => {
         <div className="mainDiv">
           <div className="section1">
             <div style={{ margin: "10px" }}>
-              <h3 className="header">Engine 3 Remaining Useful Life</h3>
+              <h3 className="header">RUL = 48%</h3>
             </div>
             <div className="speedometer-row1">
               <div className="speedometer-wrapper1">
