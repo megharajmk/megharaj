@@ -50,7 +50,7 @@ export const GraphsModule3 = () => {
         value: 1288,
         segments: 10,
         maxValue: 1550,
-        currentValueText: "Tyre Rotor",
+        currentValueText: "Rotor",
       },
     },
     {
