@@ -1,7 +1,7 @@
 import ReactSpeedometer from "react-d3-speedometer";
 import "./graphStyle.css";
 
-export const GraphsModule2 = () => {
+export const GraphsModule9 = () => {
   return (
     <>
       {" "}
