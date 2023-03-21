@@ -9,7 +9,7 @@ let sensorData = {
   currentValueText: "Flight Duration",
 };
 
-export const GraphsModule5 = () => {
+export const GraphsModule3 = () => {
   const [select, setSelect] = useState("Flight Duration");
 
   const onSelectionChange = (val) => {
