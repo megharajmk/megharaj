@@ -141,8 +141,8 @@ export const GraphsModule1 = () => {
                   startColor="green"
                   endColor="red"
                   currentValueText={`${sensorData.currentValueText}`}
-                  height={170}
-                  width={280}
+                  height={220}
+                  width={350}
                   textColor="black"
                   forceRender={true}
                 />
