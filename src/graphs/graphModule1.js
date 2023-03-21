@@ -48,7 +48,7 @@ export const GraphsModule1 = () => {
   const data = [
     {
       "Tyre Rotor": {
-        value: 1288,
+        value: 930,
         segments: 10,
         maxValue: 1550,
         currentValueText: "Rotor",
