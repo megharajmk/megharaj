@@ -14,7 +14,7 @@ export const GraphsModule2 = () => {
           </div>
           <div style={{ margin: "10px" }}>
             <h3 style={{ textAlign: "center", padding: "10px" }}>
-              Engine 2 Remaining Useful Life
+              Remaining Useful Life = 11%
             </h3>
           </div>
         </div>
