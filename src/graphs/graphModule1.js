@@ -101,7 +101,7 @@ export const GraphsModule1 = () => {
       <div className="mainWindow">
         <div className="container">
           <div style={{ margin: "10px" }}>
-            <h2 className="header">Engine 3 Reports</h2>
+            <h2 className="header">Engine 1 Statistics</h2>
           </div>
         </div>
         <div className="mainDiv">
