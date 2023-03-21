@@ -56,7 +56,7 @@ export const GraphsModule2 = () => {
     },
     {
       "Flight Duration": {
-        value: 250,
+        value: 600,
         segments: 10,
         maxValue: 600,
         currentValueText: "Flight Duration",
@@ -64,7 +64,7 @@ export const GraphsModule2 = () => {
     },
     {
       "Tyre Pressure": {
-        value: 150,
+        value: 220,
         segments: 10,
         maxValue: 220,
         currentValueText: "Tyre Pressure",
@@ -72,7 +72,7 @@ export const GraphsModule2 = () => {
     },
     {
       "Due For Maintainance": {
-        value: 0.15,
+        value: 0.25,
         segments: 10,
         maxValue: 0.3,
         currentValueText: "Due For Maintainance",
@@ -80,7 +80,7 @@ export const GraphsModule2 = () => {
     },
     {
       "Performance Metrics - A14": {
-        value: 31.5,
+        value: 33.5,
         segments: 10,
         maxValue: 43,
         currentValueText: "Performance Metrics - A14",
@@ -88,7 +88,7 @@ export const GraphsModule2 = () => {
     },
     {
       Cycles: {
-        value: 25,
+        value: 40,
         segments: 10,
         maxValue: 55,
         currentValueText: "Cycles",
@@ -107,13 +107,13 @@ export const GraphsModule2 = () => {
         <div className="mainDiv">
           <div className="section1">
             <div style={{ margin: "10px" }}>
-              <h3 className="header">RUL = 48%</h3>
+              <h3 className="header">RUL = 11%</h3>
             </div>
             <div className="speedometer-row1">
               <div className="speedometer-wrapper1">
                 <ReactSpeedometer
                   maxValue={100}
-                  value={48}
+                  value={11}
                   segments={10}
                   needleColor="black"
                   startColor="red"
