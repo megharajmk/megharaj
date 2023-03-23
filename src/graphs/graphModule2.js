@@ -132,7 +132,7 @@ export const GraphsModule2 = () => {
               <h3 className="header">Sensors</h3>
             </div>
             <div className="speedometer-row1">
-              <div className="speedometer-wrapper1">
+              <div className="speedometer-wrapper2">
                 <ReactSpeedometer
                   maxValue={sensorData.maxValue}
                   value={sensorData.value}
